@@ -3,7 +3,7 @@ JavaScript Client-Side Bitcoin Wallet Generator
 
 This is a clone of bitaddress and might include changes.
 This is mainly for testing and learning purposes only.
-Refer to [actual library/website](bitaddress.org) for any practical usage
+Refer to [actual library/website](https://bitaddress.org) for any practical usage
 
 Now Bitcoin addresses and their corresponding private key can be conveniently
 generated in a web browser.
