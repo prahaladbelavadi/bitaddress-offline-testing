@@ -1,20 +1,24 @@
-# bitaddress.org
+# bitaddress.org testing and learnign
 JavaScript Client-Side Bitcoin Wallet Generator
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+This is a clone of bitaddress and might include changes.
+This is mainly for testing and learning purposes only.
+Refer to [actual library/website](bitaddress.org) for any practical usage
+
+Now Bitcoin addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 The bitaddress.org project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
-XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
-JavaScript locally and trust that the JavaScript did not change after being 
-loaded. 
+XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the
+JavaScript locally and trust that the JavaScript did not change after being
+loaded.
 
 Here is a link to the BitcoinTalk.org forum topic discussing this project:
 https://bitcointalk.org/index.php?topic=43496.0
 
 
-Please send DONATIONS for this project to Bitcoin Address: 
+Please send DONATIONS for this project to Bitcoin Address:
 1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
 
 
